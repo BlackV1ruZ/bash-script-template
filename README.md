@@ -17,6 +17,7 @@ Credits
 This template is based on the following resources:
 
 - [Bash Script Template](https://github.com/ralish/bash-script-template)
+- [Bash Script Template](https://github.com/hemenkapadia/bash-script-template)
 
 Motivation
 ----------
